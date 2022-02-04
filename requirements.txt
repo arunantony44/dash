@@ -1,0 +1,7 @@
+Version: Python 3.8
+
+Python packages required to run the file:
+  dash
+  dash_core_components
+  dash_html_components
+  dash_bootstrap_components
